@@ -15,6 +15,7 @@
     "react-dom": "^18"
   },
   "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.7",
     "eslint": "^8",
     "eslint-config-next": "14.2.4",
     "local-ai-discoverer": "github:anhquanbd2021/local-ai-discoverer"
